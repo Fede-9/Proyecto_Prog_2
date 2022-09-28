@@ -1,0 +1,68 @@
+/* icono */
+.iconNavbar{
+    width: 45px;
+    height: 45px;
+    margin-top: 8px;
+}
+
+/* titulo */
+h1{
+    text-align: center;
+    border-bottom: 2px black solid;
+}
+
+/* contenedor formulario */
+.containForm{
+    height: 100vh;
+}
+
+/* contenedor de redes */
+.containRedes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/* iconos redes */
+.icon{
+    color: black;
+    margin: 10px;
+}
+
+/* Enviar formulario */
+.btn-form{
+    width: 100%;
+}
+
+/* texto de redes sociales */
+.texto-redes{
+    font-size: 18px;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* footer */
+body {
+    font-family: 'Karla', sans-serif;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+}
+
+/* contenedor footer */
+.social-container{
+    padding: 15px;
+}
+
+  /* iconos footer */
+.iconFooter{
+    width: 25px;
+    height: 25px;
+    color: black;
+    margin: 10px;
+}

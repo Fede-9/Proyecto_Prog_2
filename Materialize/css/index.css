@@ -1,0 +1,79 @@
+/* icono */
+.iconNavbar{
+    width: 45px;
+    height: 45px;
+    margin-top: 8px;
+}
+
+/* navbar */
+.nav-wrapper{
+    align-items: center;
+}
+
+/* carusel */
+.carousel{
+    height: 100%;
+    margin-bottom: 50px;
+}
+
+.carousel-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* titulo */
+.titulo{
+    font-size: 50px;
+    text-align: center;
+    border-bottom: 2px black solid;
+}
+
+/* contenedor de cartas padre */
+.contenedor-cards{
+    margin: 15px;
+    padding: 50px;
+}
+
+/* contenedor card */
+.contain-card{
+    text-align: center;
+    margin: 40px;
+}
+
+/* texto card */
+.card-title{
+    font-size: 25px;
+}
+
+/* imagenes */
+.img{
+    width: 250px;
+    height: 250px;
+}
+
+/* footer */
+body {
+    font-family: 'Karla', sans-serif;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+}
+
+/* contenedor footer */
+.social-container{
+    padding: 15px;
+    margin-top: 50px;
+}
+
+  /* iconos footer */
+.iconFooter{
+    width: 25px;
+    height: 25px;
+    color: black;
+    margin: 10px;
+}
